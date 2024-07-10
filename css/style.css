@@ -346,7 +346,7 @@ ul:not(.browser-default) {
   top: -62px;
 }
 .about__grid-foto img {
-  border-radius: 50%;
+  border-radius: 10%;
   max-width: 300px;
   width: 100%;
   box-shadow: 5px 5px 7px #9e9e9e;
