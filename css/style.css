@@ -412,7 +412,7 @@ ul:not(.browser-default) {
 
 /* parallax */
 .parallax {
-  background-image: url(../img/MyCollages.jpg);
+  background-image: url(img/MyCollages.jpg);
   height: 100px;
   background-attachment: fixed;
   background-position: center;
